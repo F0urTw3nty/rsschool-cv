@@ -1,4 +1,6 @@
-# Artemy Spirin 
+# Hello. My name is Artemy Spirin 
+
+-------
 
 ## Hard-skills:
 Beginner in the art of programming.
