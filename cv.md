@@ -1,7 +1,5 @@
 # Hello. My name is Artemy Spirin 
 
--------
-
 ## Hard-skills:
 Beginner in the art of programming.
 
@@ -11,9 +9,11 @@ Beginner in the art of programming.
 * CSS : 30%
 * JS : 15%
 
-## Lanuage:
+## Language:
 
 Russian : Native
+
+
 English : Pre-intermediate
 
 ## Code example:
@@ -46,6 +46,7 @@ At the end of my career in finance, i found what I really want to do, but this s
 * Email : sixtypounds420@gmail.com  
 * Telephone : +375296037541
 
+------
 
 
 
