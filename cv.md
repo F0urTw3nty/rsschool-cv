@@ -9,6 +9,11 @@ Beginner in the art of programming.
 * CSS : 30%
 * JS : 15%
 
+## Lanuage:
+
+Russian : Native
+English : Pre-intermediate
+
 ## Code example:
 ```
 function sum(a, b) {
@@ -16,6 +21,8 @@ function sum(a, b) {
 }
 alert(sum(1, 2));
 ```
+------
+
 ### Education:
 
 In 2014 - 2017 studied at the Institute of Entrepreneurship, specializing in manager of small and medium-sized businesses.
@@ -26,9 +33,12 @@ In 2014 - 2017 studied at the Institute of Entrepreneurship, specializing in man
 
 After graduation i'm worked in finance for 4 years.
 
+
 At the end of my career in finance, i found what I really want to do, but this search was difficult. 
 
-## Contacts:
+------
+
+#### Contacts:
 * Discord : FourTw3nty#6788
 * Telegram : FourTw3nty
 * Email : sixtypounds420@gmail.com  
