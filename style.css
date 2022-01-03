@@ -1,0 +1,211 @@
+.body {
+    width: 960px;
+    margin: 0 auto;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 13px;
+line-height: 1,5;
+    
+}
+
+.header {
+width: 960px;
+height: 140px;
+margin-bottom: 30px;
+background-color: pink;
+border-radius: 30px;
+margin-top: 30px;
+
+}
+
+.imgAvatar {
+
+    border-radius: 100px;
+    border: 6px solid #ffffff;
+    width: 180px;
+    height: 180px;
+    position: relative;
+top: -26px;
+left: 230px;
+
+    
+}
+
+h1 {
+    position: relative;
+    bottom: 180px;
+    left: 450px;
+    right: auto;
+    font-size: 30px;
+}
+
+.about {
+    position: relative;
+    bottom: 200px;
+    left: 460px;
+    right: auto;
+}
+nav {
+    position: relative;
+    bottom: 175px;
+    left: 200px;
+    right: auto;
+   
+    
+}
+
+.main {
+    display: flex;
+  width: 50%;
+  margin: 0 auto;
+  padding: 0;
+  justify-content: space-between;
+  list-style: none;
+
+}
+
+ a.linkHead {
+    text-decoration: none;
+    padding: 5px;
+    color: black;
+    
+
+}
+a.linkHead:hover {
+    background-color: #000000;
+    border-radius: 20px 8px;
+    color: white;
+
+}
+
+.leftBox {
+
+height: 800px;
+width: 37%;
+background-color: pink;
+border-radius: 30px;
+
+}
+
+
+.rightBoxPages {
+    margin-left: 20px;
+}
+
+.rightBoxPages h2 {
+    text-align: center;
+    font-size: 25px;
+}
+
+.rightBoxPages blockquote {
+    background-color: rgb(197, 193, 193);
+    width: 300px;
+    margin-left: 10px;
+    padding: 30px;
+    border-radius: 20px 8px;
+    text-align: center;
+    font-style: italic;
+}
+
+.rightBoxPages p {
+  font-family:fantasy;
+  font-size: 17px;
+}
+
+.rightBoxPages pre {
+    background-color: rgb(197, 193, 193);
+    width: 300px;
+    margin-left: 10px;
+    padding: 30px;
+    border-radius: 20px 8px;
+    font-style: italic;
+}
+
+.flex {
+
+    display: flex;
+}
+
+.rightBox {
+    height: 800px;
+width: 100%;
+border-radius: 30px;
+/* border: 3px solid #000000; */
+
+
+}
+
+
+
+.footerFlex {
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+
+}
+
+ .logoRSS {
+    position: absolute;
+    top: auto;
+left: auto; 
+width: 255px;
+}
+
+.logoGitLink {
+    position: relative;
+    top: auto;
+left: 500px; 
+height: 100px;
+width: 100px;
+
+
+}
+
+.logoGitLogo {
+    position: relative;
+    top: auto; 
+height: 100px;
+width: 100px;
+}
+
+.spanFooter {
+    line-height: 110px;
+    margin: 0px;
+font-size: 40px;
+}
+
+
+
+.leftBoxPages {
+    border-radius: 10px;
+    background-color: black;
+    height: 25px;
+margin: 20px 10px;
+margin-bottom: 90px;
+
+}
+
+.leftBoxPages h2 {
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+   
+ 
+  
+} 
+
+.leftBoxPages li {
+    list-style: none;
+    text-align: left;
+    font-style:italic;
+    font-size: 14;
+    
+}
+
+
+    
+
+    
