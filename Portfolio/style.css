@@ -45,7 +45,7 @@
 
 }
 
-body h1, h2 {
+body h1, h2, h3 {
     font-family: Merriweather;
     
     
@@ -312,3 +312,124 @@ margin-right: -100%;
         width: 450px;
         height: 560px;
     }
+    .video-player {
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .video-player button {
+        position: absolute;       
+   border: 0; /* убрать эту и следуюущую для проверки кнопки */
+  background: transparent;
+  cursor: pointer;
+    }
+    .price-items {
+        display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      margin: 0px 20px;
+      
+      
+    }
+    .price-item {
+        color: white;
+        border: 3px solid #bdae82;
+        text-align: center;
+        width: 450px;
+
+    
+    }
+
+    .price-item h3 {
+        size: 28px;
+        line-height: 56px;
+        margin-left: auto;
+        margin-right: auto;
+        
+    }   
+        
+    .price-item p {
+        font-family: Merriweather;
+        color: #bdae82;
+        size: 24px;
+        line-height: 48px;
+        
+    }
+
+    .price-item span {
+       display: block;
+       font-weight: normal;
+    height: 36px;
+    color: white;
+    font-size: 18px;
+    line-height: 36px;
+    }
+    
+    .price-item button {
+        margin-top: 38px;
+        margin-bottom: 40px;
+        
+    }
+  
+.contacts-container {
+    
+    background-image: url(./assest/img/contacts.jpg);
+    background-size: auto 700px;
+    background-position: center center;
+    padding: 60px 20px 195px 970px;
+    height: 700px;
+}
+
+.contact-h2 {
+        width: 450px;
+        height: 80px;
+        color: #bdae82;
+        position: relative;
+        line-height: 80px;
+        font-size: 45px;
+        margin-top: 0px;
+    }
+    
+    .contacts-items {
+        display: flex;
+        flex-direction: column;
+    }
+.contacts-items input, textarea {
+ border: 2px solid #bdae82;
+ background: none;
+ width: 450px;
+ height: 50px;
+margin-top: 20px;
+font-size:20px;
+line-height: 40px;
+color:#bdae82;
+}
+
+.contacts-items textarea {
+    border: 2px solid #bdae82;
+    background: none;
+    height: 100px;
+   margin-top: 20px;
+   margin-bottom: 30px;
+   font-size:20px;
+   line-height: 40px;
+   color:#bdae82;
+   resize:none;
+   }
+
+
+::placeholder {
+    font-family: inherit;
+    color: #bdae82;
+    font-size: 20px;
+    line-height: 40px;
+   }
+
+   /* input:-webkit-autofill,
+   input:-webkit-autofill:hover,
+   input:-webkit-autofill:focus,
+   input:-webkit-autofill:active {
+     -webkit-text-fill-color: #bdae82;
+     transition: background-color 0s ease-in-out 9000s;
+   } */
